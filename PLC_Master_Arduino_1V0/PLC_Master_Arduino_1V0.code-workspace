@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "PLC_Master_Arduino_1V0",
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\cmoldvai\\.platformio\\penv\\Scripts;C:\\Users\\cmoldvai\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\runtime\\win64;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\bin;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\polyspace\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\Arduino;C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin;C:\\Program Files\\dotnet\\;C:\\Users\\cmoldvai\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\cmoldvai\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\cmoldvai\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\cmoldvai\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\cmoldvai\\AppData\\Roaming\\Python\\Python37\\Scripts;C:\\Users\\cmoldvai\\AppData\\Local\\GitHubDesktop\\bin;;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\runtime\\win64;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\bin;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\polyspace\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\Arduino;C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin;C:\\Program Files\\dotnet\\;C:\\Users\\cmoldvai\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\cmoldvai\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\cmoldvai\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\cmoldvai\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\cmoldvai\\AppData\\Roaming\\Python\\Python37\\Scripts;C:\\Users\\cmoldvai\\AppData\\Local\\GitHubDesktop\\bin;",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
