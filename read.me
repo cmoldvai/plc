@@ -1,0 +1,14 @@
+Arduino drivers for Power Line Communications (in C++): 
+PLC_Master_Arduino/Teensy and PLC_Slave_1/2 
+
+There are 4 main projects, two for the master PLC, each configured for different boards
+and two for the two Slave PLC Arduinos.
+
+PLC_Master_Arduino, for Adafruit Metro board
+PLC_Master_Teensy, for the Teensy 3.6 board
+PLC_Slave, for the slave with the LCD (Adafruit Metro board)
+PLC_Slave, for the slave simulating a temperature sensor (Adafruit Metro board)
+Each project is used individually. Each board is connected to a Semitech PLC board 
+via UART interface. The PLCs are plugged into the power line. 
+Depending what kind of FW is loaded into those PLC boards, they can use different standards, 
+different frequency bands and different protocols
